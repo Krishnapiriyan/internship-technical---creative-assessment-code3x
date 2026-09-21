@@ -353,7 +353,7 @@ export const ProductivityIllustration: React.FC = () => {
         <Typography
           variant="h6"
           sx={{
-            fontWeight: 700,
+            fontWeight: 400,
             fontSize: { xs: '1.15rem', sm: '1.3rem', md: '1.45rem' },
             color: '#111827',
             lineHeight: 1.35,
@@ -364,7 +364,7 @@ export const ProductivityIllustration: React.FC = () => {
         <Typography
           variant="h6"
           sx={{
-            fontWeight: 700,
+            fontWeight: 400,
             fontSize: { xs: '1.15rem', sm: '1.3rem', md: '1.45rem' },
             color: '#111827',
             lineHeight: 1.35,
