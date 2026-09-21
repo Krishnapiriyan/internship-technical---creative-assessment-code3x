@@ -225,7 +225,7 @@ firebase deploy --only hosting
 ```
 
 Your live site will be accessible at:
-`https://<your-project-id>.web.app`
+`https://assessment-code3x.web.app`
 
 ---
 
@@ -239,10 +239,10 @@ Your live site will be accessible at:
 
 ## Live Demo
 
-- **Hosted URL**: *[Provide your live Firebase Hosting URL here]*
+- **Hosted URL**: *https://assessment-code3x.web.app*
 
 ---
 
 ## GitHub Repository
 
-- **Repository**: *[Provide your public GitHub repository URL here]*
+- **Repository**: *https://github.com/Krishnapiriyan/internship-technical---creative-assessment-code3x.git*
